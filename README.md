@@ -4,7 +4,7 @@ This includes the codes using for computational studies in the thesis *"Dong Qua
 Allocation Problems: Approximate Equilibrium and Online Learning in Blotto Games"*
 that is available at "arxiv/......"
 
-## Numerical Experiments for Approximate Equilbrium of Discrete Colonel Blotto Games 
+## Numerical Experiments for Approximate Equilbria of Discrete Colonel Blotto Games 
 (Results given in Chapter 5---Section 5.3 of the thesis)
 
 See the repository: https://github.com/dongquan11/Approx_discrete_Blotto
@@ -16,7 +16,7 @@ An implementation of EDGE Algorithm:
 
 See the repository: https://github.com/dongquan11/BanditColonelBlotto
 
-## Numerical Experiments for Online Shortest Path Problems with Side-Observation and Learning in Online Semi-Bandit Colonel Blotto Game
+## Numerical Experiments for Online Shortest Path Problems with Side-Observations and Learning in Online Semi-Bandit Colonel Blotto Game
 (Results given in Chapter 8 of the thesis)
 An implementation of EXP3-OE Algorithm:
 
