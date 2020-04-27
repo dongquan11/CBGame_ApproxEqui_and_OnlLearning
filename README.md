@@ -9,15 +9,23 @@ that is available at "arxiv/......"
 
 See the repository: https://github.com/dongquan11/Approx_discrete_Blotto
 
+## Numerical Experiments for Approximate Equilibria of the Generalized-Rule Colonel Blotto Game
+(Results given in Section 6.2 of the thesis)
+
+For a heuristic algorithm to find an approximation of solutions of System (6.7), see the repository
+
+https://github.com/dongquan11/GeneralizedRule_CBgame
 
 ## Numerical Experiments for Online Shortest Path Problems and Learning in Online Bandit Colonel Blotto Game
 (Results given in Chapter 9---Section 9.4 of the thesis)
-An implementation of EDGE Algorithm:
+For an implementation of EDGE Algorithm, see the repository: 
 
-See the repository: https://github.com/dongquan11/BanditColonelBlotto
+https://github.com/dongquan11/BanditColonelBlotto
 
 ## Numerical Experiments for Online Shortest Path Problems with Side-Observations and Learning in Online Semi-Bandit Colonel Blotto Game
 (Results given in Chapter 8 of the thesis)
-An implementation of EXP3-OE Algorithm:
+For an implementation of EXP3-OE Algorithm, see the repository: 
 
-See the repository: https://github.com/dongquan11/CB-HS.SOPPP
+https://github.com/dongquan11/CB-HS.SOPPP
+
+
